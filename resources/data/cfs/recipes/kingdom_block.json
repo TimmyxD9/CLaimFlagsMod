@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " X ",
+    "XSX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:book"
+    },
+    "S": {
+      "item": "minecraft:gold_block"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "cfs:kingdom_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": {"model": "cfs:block/kingdom_block"},
+        "facing=south": {"model": "cfs:block/kingdom_block", "y":  180},
+        "facing=west": {"model": "cfs:block/kingdom_block", "y":  270},
+        "facing=east": {"model": "cfs:block/kingdom_block", "y": 90}
+    }
+}

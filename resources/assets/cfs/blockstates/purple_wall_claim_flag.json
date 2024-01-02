@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "":{
+      "model": "cfs:block/claim_flag"
+    }
+  }
+}
